@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="2" time="40.032">
+ <testsuite name="Login page operations" timestamp="2020-06-26T13:25:24" hostname="localhost" time="15.658" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Login page operations" name="openurl" time="15.657" />
+ </testsuite>
+ <testsuite name="hompage scenario" timestamp="2020-06-26T13:25:39" hostname="localhost" time="24.374" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="hompage scenario" name="add item to the cart" time="24.374" />
+ </testsuite>
+</testsuites>
