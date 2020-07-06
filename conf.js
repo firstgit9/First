@@ -91,6 +91,7 @@ jasmine.getEnv().addReporter(new jasmineReporters.JUnitXmlReporter({
    });
 },
   // Options to be passed to Jasmine-node.
+  //
   jasmineNodeOpts: {
     showColors: true, // Use colors in the command line report.
   }
